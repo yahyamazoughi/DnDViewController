@@ -459,6 +459,7 @@
 				A9004E1517D23F6500BC07ED /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A9004E1617D23F6500BC07ED /* Build configuration list for PBXNativeTarget "DnDViewControllerTests" */ = {
 			isa = XCConfigurationList;
@@ -467,6 +468,7 @@
 				A9004E1817D23F6500BC07ED /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
